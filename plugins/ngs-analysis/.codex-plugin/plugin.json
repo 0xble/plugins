@@ -43,7 +43,7 @@
     "privacyPolicyURL": "https://openai.com/policies/privacy-policy/",
     "termsOfServiceURL": "https://openai.com/policies/terms-of-use/",
     "defaultPrompt": [
-      "Guide me through the minimum required NGS analysis questions, inspect available BCL/FASTQ files or count matrices, choose the right public pipeline or deeper assay-specific skill, check whether required tools already exist, and execute supported local workflows with pre-execution validation and artifact capture."
+      "Guide my NGS analysis: ask questions, inspect inputs, select a public workflow, validate tools, run, and capture artifacts."
     ],
     "brandColor": "#0F766E",
     "composerIcon": "./assets/app-icon.png",
